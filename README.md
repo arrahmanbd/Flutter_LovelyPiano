@@ -14,11 +14,11 @@ Flutter Beautiful Mugically Piano App .
 
 ## Android Screenshots
 
- - Screen                   |  
-:-------------------------:|
+ - Screen                    
+
 ![](screenshots/pic.png)|
 
 ## Android App
 
 - Install Apk File
-![](apk/app.apk)
+[Click here](apk/app.apk)
